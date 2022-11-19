@@ -10,7 +10,7 @@ where p(z) = pressure in Pascal’s (or N/m2) exerted at an elevation z meters a
 
 According to equation (1), pressure increases linearly with depth, as depicted in Figure 1-a. Omitting atmospheric pressure (because it works against both sides of the dam face and essentially cancels out), the total force ft. can be determined by multiplying pressure times the area of the dam face (as shown in Figure 1-b). Because both pressure and area vary with elevation, the total force is obtained by evaluating
 
-     Figure 1: Water exerting pressure on the upstream face of a dam: (a) side view showing force increasing linearly with depth; (b) front view showing width of dam in meters. Where w(z) = width of the dam face (m) at elevation z (Figure 1-b).
+Figure 1: Water exerting pressure on the upstream face of a dam: (a) side view showing force increasing linearly with depth; (b) front view showing width of dam in meters. Where w(z) = width of the dam face (m) at elevation z (Figure 1-b).
   
  Assume that the width of the channel is modeled to be a second order polynomial as shown here:
 Where a is distance from edge of the channel to the bank of the channel, z is distance from channel bottom, D is depth of the channel, b is width of the channel base, and w(z) is width of water.
